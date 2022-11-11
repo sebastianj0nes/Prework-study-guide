@@ -23,7 +23,4 @@ No collaborators.
 Refer to LICENSE in the repository. 
 MIT licence has been selected.
 
-## Website
-https://sebastianj0nes.github.io/Prework-study-guide/
-
 
